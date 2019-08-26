@@ -1,9 +1,11 @@
 # Ejercicios usando c++
 
 Nombre:
+Javier Chavez
 --
 
 Github Username:
+JavierChavez-UTEC
 --
 
 Instrucciones:
