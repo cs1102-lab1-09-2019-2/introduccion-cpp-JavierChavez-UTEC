@@ -1,6 +1,7 @@
-/*
- * Solamente incluir los header files que se requiren para hacer funcionar el programa
- */
+#include <iostream>
+#include <vector>
+#include <string>
+#include <unordered_set>
 
 int main()
 {
