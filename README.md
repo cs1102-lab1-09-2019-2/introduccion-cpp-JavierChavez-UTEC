@@ -1,5 +1,9 @@
 # Ejercicios usando c++
 
+Nota:
+--
+JavierChavez-UTEC/..............12..............1..............12/13.........18.46
+
 Nombre:
 Javier Chavez
 --
